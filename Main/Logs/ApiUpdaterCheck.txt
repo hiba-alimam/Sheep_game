@@ -1,0 +1,50 @@
+[api-updater (non-obsolete-error-filter)] 4/9/2022 11:01:00 PM : Starting D:/Program Files/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3092.3204ms
+moved types parse time: 110ms
+candidates parse time : 2ms
+C# parse time         : 1185ms
+candidates check time : 38ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/9/2022 11:01:28 PM : Starting D:/Program Files/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114.6896ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 322ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2022 12:44:39 PM : Starting D:/Program Files/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 3228.9369ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 943ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2022 12:45:22 PM : Starting D:/Program Files/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 96.0044ms
+moved types parse time: 72ms
+candidates parse time : 3ms
+C# parse time         : 232ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2022 12:45:45 PM : Starting D:/Program Files/Unity/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122.7345ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 217ms
+candidates check time : 35ms
+console write time    : 0ms
+
